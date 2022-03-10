@@ -91,3 +91,9 @@ list-style: none;
     padding-top: 0;
     margin-bottom: 3rem;
   }
+
+footer{
+    background-color: rgb(214, 214, 214);
+    text-align: center;
+    padding-top: .5rem;
+}
