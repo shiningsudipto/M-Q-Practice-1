@@ -1,4 +1,7 @@
 @media  screen and (max-width:390px) {
+header{
+    width: 100%;
+}
 nav{
     flex-direction: column;
 }
@@ -13,5 +16,14 @@ text-align: center;
     text-align: center;
     width: 90%;
     margin: 0 auto;
+}
+
+
+.services-img{
+    flex-direction: column;
+    text-align: center;
+}
+footer{
+    text-align: center;
 }
 }
